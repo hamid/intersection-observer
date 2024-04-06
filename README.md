@@ -1,5 +1,6 @@
 # Intersection Observer API
-Show some examples of The Intersection Observer: as the key to faster element tracking
+Show some examples of The Intersection Observer: as the key to faster element tracking.
+The **Intersection Observer API** enables efficient and performant observation of element visibility changes within a document. I've written a detailed article exploring this powerful feature and its applications in modern web development, from optimized lazy loading to interactive animations. Check it out here: [the article](https://medium.com/@salimian/the-intersection-observer-the-key-to-faster-element-tracking-by-scrolling-d5b2cce0a68f).
 
 
 # Lazy-Loading of Resources
