@@ -2,7 +2,16 @@
 Show some examples of The Intersection Observer: as the key to faster element tracking.
 The **Intersection Observer API** enables efficient and performant observation of element visibility changes within a document. I've written a detailed article exploring this powerful feature and its applications in modern web development, from optimized lazy loading to interactive animations. Check it out here: [the article](https://medium.com/@salimian/the-intersection-observer-the-key-to-faster-element-tracking-by-scrolling-d5b2cce0a68f).
 
+1. [Lazy-Loading of Resources](#lazy-loading-of-resources)
+2. [Infinite Scrolling](#infinite-scrolling)
+3. [Advertisement Visibility Tracking](#advertisement-visibility-tracking)
+4. [Conditional Animations and Tasks](#conditional-animations-and-tasks)
+5. [Accessibility Improvements](#accessibility-improvements)
+6. [Resource Prioritization](#resource-prioritization)
+7. [User Behavior Analytics](#user-behavior-analytics)
+8. [Interactive Elements Activation](#interactive-elements-activation)
 
+   
 # Lazy-Loading of Resources
 Lazy-loading is a strategy to delay loading of non-critical resources at page load time. Instead, these resources are loaded at the moment they are needed, which might be when they enter the viewport. This approach can significantly reduce initial page load time, lower data usage for users, and decrease resource consumption on servers. For images and videos, this means the browser will only fetch them when the user scrolls near them, rather than loading all media assets upfront when the page loads.
 
